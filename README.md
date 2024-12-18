@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Navigation Menu](https://github.com/darren277/darren277/blob/main/NAVIGATION.md)
+
 <!--
 **darren277/darren277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
