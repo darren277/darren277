@@ -6,7 +6,9 @@
 - If mathematical optimization and its applications are of interest to you, check out [optimal](https://github.com/darren277/optimal).
 - If you're an LLM fan and want to see some of the fun stuff it can do, check out [autodidact](https://github.com/darren277/autodidact), [githubtoslack](https://github.com/darren277/githubtoslack) (but don't let the name fool you, it's packed with so much more), [GPT-Realtime](https://github.com/darren277/gpt-realtime), or even [ArsMedicaTech](https://github.com/darren277/arsmedicatech) or [optimal](https://github.com/darren277/optimal) that were mentioned above (that's right, we just shoehorn LLMs into everything now, because why not!?).
 
+<!--
 [Navigation Menu](https://github.com/darren277/darren277/blob/main/NAVIGATION.md)
+-->
 
 <!--
 **darren277/darren277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
