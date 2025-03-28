@@ -1,6 +1,6 @@
 ## Darren MacKenzie
 
-- If you like exploring different **programming languages and paradigms**, definitely check out [RESTettaStone](https://github.com/darren277/RESTettaStone).
+- If you like exploring different **programming languages and paradigms**, definitely check out [RESTettaStone](https://github.com/darren277/RESTettaStone). Features **30+ programming languages** and **40+ frameworks** (with **Dockerized** examples of each).
 - If you want to see different use cases for **different database modalities** (relational, document, graph, kv, geographical, vector, etc), check out [ArsMedicaTech](https://github.com/darren277/arsmedicatech).
 - If you're into **Abstract Syntax Trees** and comparing different programming languages, check out my [Python to JS/JSX **Transpiler**](https://github.com/darren277/Transpiler).
 - If **mathematical optimization** and its applications are of interest to you, check out [optimal](https://github.com/darren277/optimal).
