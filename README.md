@@ -7,6 +7,8 @@
 - If you're an **LLM** fan and want to see some of the fun stuff it can do, check out [autodidact](https://github.com/darren277/autodidact), [githubtoslack](https://github.com/darren277/githubtoslack) (but don't let the name fool you, it's packed with so much more), [GPT-Realtime](https://github.com/darren277/gpt-realtime), or even [ArsMedicaTech](https://github.com/darren277/arsmedicatech) or [optimal](https://github.com/darren277/optimal) that were mentioned above (that's right, we just shoehorn LLMs into everything now, because why not!?).
 - For **3D visualizations**, see [multiaxis](https://github.com/darren277/multiaxis). For an example of a **full stack Rust application**, see [Wasm-FRP](https://github.com/darren277/wasm-frp). Or check out some old school [**COBOL**](https://github.com/darren277/bank) and [**Fortran**](https://github.com/darren277/risk).
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=darren277&show_icons=true&locale=en" alt="darren277" />
+
 <!--
 [Navigation Menu](https://github.com/darren277/darren277/blob/main/NAVIGATION.md)
 -->
